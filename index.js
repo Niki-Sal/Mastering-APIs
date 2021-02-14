@@ -1,5 +1,5 @@
 //imports
-const fetch = require("node-fetch");
+const fetch = require("node-fetch"); //require only works in NODE (backend)
 
 //request to a website that return html
 
